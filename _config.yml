@@ -1,7 +1,7 @@
 name: alantsen
 favicon: null
 layout_spectrum: 0.7619268908165395
-typography_spectrum: 0.6189264624845237
+typography_spectrum: 0.36762
 title: Interesting Stuff
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.18834437080658972
+  brandStrength: 0.5
   lightness: 0.9266579987015575
   saturation: 0.5693554799072444
   rhythmicContrast: 0.6570069957524538
