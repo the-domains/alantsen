@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Interesting Stuff]]></title>
+        <description><![CDATA[Interesting Stuff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 06:25:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Some Interesting Stuff From Around The Web]]></title>
+            <description><![CDATA[<article><h1>Some Interesting Stuff From Around The Web</h1><p>This is my corner of the interwebs where I post wild and wonderful things I find online. It's a combination of awesome articles, inspiring images and just random esoteric stuff. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f69d48-8446-4f8f-8877-a8fd68aac04a.jpg"></article>]]></description>
+            <link>undefinedsome-interesting-stuff-from-around-the-web/index.html</link>
+            <guid isPermaLink="false">fda09c55-81c8-4722-8b7e-a988b11d4e6e</guid>
+            <pubDate>Sun, 27 Mar 2016 06:25:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
